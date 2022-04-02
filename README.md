@@ -120,7 +120,7 @@ router.post('/', (req, res) => {
 - Faça um git clone do repositório no prompt de comando
 
 ```sh
-git clone <>
+git clone <https://github.com/raissasantanapassos/case_itau.git>
 ```
 
 - Após o projeto estar aberto no VSCode rodar a aplicação no terminal 
